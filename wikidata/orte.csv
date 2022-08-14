@@ -1,0 +1,298 @@
+item,itemLabel,url
+http://www.wikidata.org/entity/Q571947,Landkreis Bautzen,http://www.landkreis-bautzen.de/
+http://www.wikidata.org/entity/Q2839,Kreis Warendorf,http://www.kreis-warendorf.de/
+http://www.wikidata.org/entity/Q2876,Landkreis Nordwestmecklenburg,http://www.nordwestmecklenburg.de
+http://www.wikidata.org/entity/Q2898,Landkreis Rostock,https://www.landkreis-rostock.de/
+http://www.wikidata.org/entity/Q2902,Landkreis Mecklenburgische Seenplatte,http://www.lk-mecklenburgische-seenplatte.de
+http://www.wikidata.org/entity/Q2905,Landkreis Ludwigslust-Parchim,http://www.kreis-lup.de/
+http://www.wikidata.org/entity/Q2909,Landkreis Vorpommern-Rügen,http://www.lk-vr.de
+http://www.wikidata.org/entity/Q2917,Landkreis Vorpommern-Greifswald,https://www.kreis-vg.de
+http://www.wikidata.org/entity/Q2937,Kreis Nordfriesland,http://www.nordfriesland.de/
+http://www.wikidata.org/entity/Q2941,Kreis Schleswig-Flensburg,http://www.schleswig-flensburg.de
+http://www.wikidata.org/entity/Q2947,Kreis Dithmarschen,http://www.dithmarschen.de
+http://www.wikidata.org/entity/Q2967,Kreis Rendsburg-Eckernförde,https://www.kreis-rendsburg-eckernfoerde.de/
+http://www.wikidata.org/entity/Q2970,Kreis Plön,http://www.kreis-ploen.de/
+http://www.wikidata.org/entity/Q2975,Kreis Ostholstein,http://www.kreis-oh.de
+http://www.wikidata.org/entity/Q2980,Kreis Segeberg,https://www.segeberg.de/
+http://www.wikidata.org/entity/Q2980,Kreis Segeberg,http://www.kreis-segeberg.de/
+http://www.wikidata.org/entity/Q3003,Kreis Stormarn,http://www.kreis-stormarn.de/
+http://www.wikidata.org/entity/Q3000,Kreis Herzogtum Lauenburg,http://www.herzogtum-lauenburg.de
+http://www.wikidata.org/entity/Q3006,Kreis Pinneberg,http://www.kreis-pinneberg.de/
+http://www.wikidata.org/entity/Q3011,Kreis Steinburg,http://www.kreis-steinburg.de/
+http://www.wikidata.org/entity/Q5897,Landkreis Cuxhaven,http://www.landkreis-cuxhaven.de/
+http://www.wikidata.org/entity/Q5906,Landkreis Stade,http://www.landkreis-stade.de
+http://www.wikidata.org/entity/Q5907,Landkreis Harburg,https://www.landkreis-harburg.de/
+http://www.wikidata.org/entity/Q5910,Landkreis Lüneburg,http://www.landkreis-lueneburg.de
+http://www.wikidata.org/entity/Q5915,Landkreis Uelzen,http://www.landkreis-uelzen.de/
+http://www.wikidata.org/entity/Q5913,Landkreis Lüchow-Dannenberg,http://www.luechow-dannenberg.de/
+http://www.wikidata.org/entity/Q5919,Landkreis Celle,http://www.landkreis-celle.de/
+http://www.wikidata.org/entity/Q5922,Landkreis Heidekreis,https://www.heidekreis.de/
+http://www.wikidata.org/entity/Q5923,Landkreis Rotenburg (Wümme),http://www.lk-row.de/
+http://www.wikidata.org/entity/Q5926,Landkreis Osterholz,http://www.landkreis-osterholz.de/
+http://www.wikidata.org/entity/Q5927,Landkreis Verden,http://www.landkreis-verden.de/
+http://www.wikidata.org/entity/Q5931,Landkreis Wittmund,http://www.landkreis.wittmund.de/
+http://www.wikidata.org/entity/Q5929,Landkreis Aurich,http://www.landkreis-aurich.de/
+http://www.wikidata.org/entity/Q5934,Landkreis Leer,http://www.landkreis-leer.de/
+http://www.wikidata.org/entity/Q5932,Landkreis Friesland,http://www.friesland.de
+http://www.wikidata.org/entity/Q5939,Landkreis Grafschaft Bentheim,https://www.grafschaft-bentheim.de/
+http://www.wikidata.org/entity/Q5936,Landkreis Emsland,https://www.emsland.de/
+http://www.wikidata.org/entity/Q5937,Märkischer Kreis,http://www.maerkischer-kreis.de
+http://www.wikidata.org/entity/Q5940,Landkreis Osnabrück,http://www.landkreis-osnabrueck.de/
+http://www.wikidata.org/entity/Q5941,Landkreis Vechta,http://www.landkreis-vechta.de/
+http://www.wikidata.org/entity/Q5946,Hochsauerlandkreis,http://www.hochsauerlandkreis.de/
+http://www.wikidata.org/entity/Q5947,Landkreis Ammerland,http://www.ammerland.de/
+http://www.wikidata.org/entity/Q5945,Landkreis Cloppenburg,http://www.lkclp.de/
+http://www.wikidata.org/entity/Q5948,Landkreis Wesermarsch,http://www.landkreis-wesermarsch.de
+http://www.wikidata.org/entity/Q5952,Landkreis Oldenburg,http://www.landkreis-oldenburg.de/
+http://www.wikidata.org/entity/Q5953,Kreis Olpe,http://www.kreis-olpe.de/
+http://www.wikidata.org/entity/Q5958,Landkreis Nienburg/Weser,http://www.lk-nienburg.de/
+http://www.wikidata.org/entity/Q5956,Landkreis Diepholz,http://www.diepholz.de
+http://www.wikidata.org/entity/Q5963,Region Hannover,http://www.region-hannover.de/
+http://www.wikidata.org/entity/Q5966,Landkreis Schaumburg,http://www.schaumburg.de/
+http://www.wikidata.org/entity/Q5965,Kreis Soest,http://www.kreis-soest.de
+http://www.wikidata.org/entity/Q5970,Landkreis Hameln-Pyrmont,http://www.hameln-pyrmont.de
+http://www.wikidata.org/entity/Q5973,Landkreis Holzminden,http://www.landkreis-holzminden.de
+http://www.wikidata.org/entity/Q5978,Landkreis Hildesheim,http://www.landkreishildesheim.de
+http://www.wikidata.org/entity/Q5982,Kreis Siegen-Wittgenstein,http://www.siegen-wittgenstein.de/
+http://www.wikidata.org/entity/Q6018,Landkreis Northeim,http://www.landkreis-northeim.de/
+http://www.wikidata.org/entity/Q6022,Landkreis Göttingen,http://www.landkreisgoettingen.de/
+http://www.wikidata.org/entity/Q6040,Landkreis Goslar,http://www.landkreis-goslar.de/
+http://www.wikidata.org/entity/Q6041,Landkreis Wolfenbüttel,http://www.lk-wofenbuettel.de/
+http://www.wikidata.org/entity/Q6047,Landkreis Helmstedt,http://www.helmstedt.de/
+http://www.wikidata.org/entity/Q6045,Landkreis Peine,http://www.landkreis-peine.de/
+http://www.wikidata.org/entity/Q6053,Landkreis Gifhorn,http://www.gifhorn.de
+http://www.wikidata.org/entity/Q6057,Landkreis Stendal,http://www.landkreis-stendal.de/
+http://www.wikidata.org/entity/Q6061,Altmarkkreis Salzwedel,http://www.altmarkkreis-salzwedel.de/
+http://www.wikidata.org/entity/Q6064,Landkreis Börde,http://www.boerdekreis.de/
+http://www.wikidata.org/entity/Q6071,Landkreis Anhalt-Bitterfeld,http://www.anhalt-bitterfeld.de/
+http://www.wikidata.org/entity/Q6068,Landkreis Jerichower Land,https://www.lkjl.de/
+http://www.wikidata.org/entity/Q6075,Landkreis Wittenberg,http://www.landkreis-wittenberg.de/
+http://www.wikidata.org/entity/Q6081,Salzlandkreis,http://www.kreis-slk.de/
+http://www.wikidata.org/entity/Q6087,Landkreis Harz,http://www.kreis-hz.de
+http://www.wikidata.org/entity/Q6092,Landkreis Mansfeld-Südharz,http://www.mansfeldsuedharz.de/
+http://www.wikidata.org/entity/Q6098,Saalekreis,http://www.saalekreis.de/
+http://www.wikidata.org/entity/Q6102,Burgenlandkreis,https://www.burgenlandkreis.de/
+http://www.wikidata.org/entity/Q6109,Landkreis Uckermark,http://landkreis.uckermark.de/
+http://www.wikidata.org/entity/Q6115,Landkreis Barnim,http://www.barnim.de/
+http://www.wikidata.org/entity/Q6119,Landkreis Oberhavel,http://www.oberhavel.de/
+http://www.wikidata.org/entity/Q6125,Landkreis Ostprignitz-Ruppin,http://www.ostprignitz-ruppin.de/
+http://www.wikidata.org/entity/Q6132,Landkreis Prignitz,http://www.landkreis-prignitz.de/
+http://www.wikidata.org/entity/Q6139,Landkreis Havelland,https://www.havelland.de/
+http://www.wikidata.org/entity/Q6142,Landkreis Potsdam-Mittelmark,http://www.potsdam-mittelmark.de/
+http://www.wikidata.org/entity/Q6146,Landkreis Teltow-Fläming,http://www.teltow-flaeming.de/
+http://www.wikidata.org/entity/Q6152,Landkreis Elbe-Elster,http://www.landkreis-elbe-elster.de/
+http://www.wikidata.org/entity/Q6156,Landkreis Oberspreewald-Lausitz,http://www.osl-online.de/
+http://www.wikidata.org/entity/Q6163,Kreis Unna,http://www.kreis-unna.de/
+http://www.wikidata.org/entity/Q6165,Landkreis Spree-Neiße,http://www.landkreis-spree-neisse.de
+http://www.wikidata.org/entity/Q6173,Landkreis Dahme-Spreewald,http://www.dahme-spreewald.de/
+http://www.wikidata.org/entity/Q6178,Landkreis Oder-Spree,http://landkreis-oder-spree.de/
+http://www.wikidata.org/entity/Q6181,Landkreis Märkisch-Oderland,http://www.maerkisch-oderland.de/
+http://www.wikidata.org/entity/Q6187,Kreis Steinfurt,http://www.kreis-steinfurt.de/
+http://www.wikidata.org/entity/Q6191,Kreis Borken,http://www.kreis-borken.de/
+http://www.wikidata.org/entity/Q6210,Kreis Coesfeld,http://www.kreis-coesfeld.de/
+http://www.wikidata.org/entity/Q6214,Kreis Recklinghausen,http://www.kreis-recklinghausen.de/
+http://www.wikidata.org/entity/Q6218,Kreis Gütersloh,http://www.kreis-guetersloh.de/
+http://www.wikidata.org/entity/Q6224,Kreis Paderborn,http://www.kreis-paderborn.de/
+http://www.wikidata.org/entity/Q6230,Kreis Lippe,http://www.lippe.de/
+http://www.wikidata.org/entity/Q6228,Kreis Höxter,http://www.kreis-hoexter.de
+http://www.wikidata.org/entity/Q6234,Kreis Herford,http://www.kreis-herford.de/
+http://www.wikidata.org/entity/Q6239,Kreis Minden-Lübbecke,http://www.minden-luebbecke.de
+http://www.wikidata.org/entity/Q6246,Kreis Kleve,http://www.kreis-kleve.de
+http://www.wikidata.org/entity/Q6245,Kreis Wesel,http://www.kreis-wesel.de/
+http://www.wikidata.org/entity/Q6249,Kreis Viersen,http://www.kreis-viersen.de/
+http://www.wikidata.org/entity/Q6253,Rhein-Kreis Neuss,http://www.rhein-kreis-neuss.de/
+http://www.wikidata.org/entity/Q6257,Kreis Mettmann,https://www.kreis-mettmann.de/
+http://www.wikidata.org/entity/Q6264,Kreis Heinsberg,http://www.kreis-heinsberg.de/
+http://www.wikidata.org/entity/Q6275,Kreis Düren,http://www.kreis-dueren.de/
+http://www.wikidata.org/entity/Q6272,Städteregion Aachen,http://www.staedteregion-aachen.de/
+http://www.wikidata.org/entity/Q6280,Kreis Euskirchen,http://www.kreis-euskirchen.de/
+http://www.wikidata.org/entity/Q6287,Rhein-Sieg-Kreis,http://www.rhein-sieg-kreis.de/
+http://www.wikidata.org/entity/Q6295,Rheinisch-Bergischer Kreis,https://www.rbk-direkt.de/
+http://www.wikidata.org/entity/Q6292,Rhein-Erft-Kreis,http://www.rhein-erft-kreis.de/
+http://www.wikidata.org/entity/Q6298,Oberbergischer Kreis,http://www.oberbergischer-kreis.de/
+http://www.wikidata.org/entity/Q6301,Landkreis Nordsachsen,http://www.landkreis-nordsachsen.de/
+http://www.wikidata.org/entity/Q6308,Landkreis Leipzig,http://www.landkreisleipzig.de/
+http://www.wikidata.org/entity/Q6313,Landkreis Meißen,http://www.kreis-meissen.de/
+http://www.wikidata.org/entity/Q6317,Landkreis Görlitz,http://www.kreis-goerlitz.de/
+http://www.wikidata.org/entity/Q6323,Landkreis Sächsische Schweiz-Osterzgebirge,http://www.landratsamt-pirna.de/
+http://www.wikidata.org/entity/Q6330,Landkreis Zwickau,http://www.landkreis-zwickau.de/
+http://www.wikidata.org/entity/Q6328,Landkreis Mittelsachsen,http://www.landkreis-mittelsachsen.de/
+http://www.wikidata.org/entity/Q6339,Erzgebirgskreis,http://www.erzgebirgskreis.de/
+http://www.wikidata.org/entity/Q6337,Vogtlandkreis,http://www.vogtlandkreis.de
+http://www.wikidata.org/entity/Q6789,Landkreis St. Wendel,http://www.landkreis-st-wendel.de/
+http://www.wikidata.org/entity/Q6794,Landkreis Saarlouis,https://www.kreis-saarlouis.de/
+http://www.wikidata.org/entity/Q6794,Landkreis Saarlouis,http://www.kreis-saarlouis.de/
+http://www.wikidata.org/entity/Q6793,Saarpfalz-Kreis,http://www.saarpfalz-kreis.de/
+http://www.wikidata.org/entity/Q6799,Landkreis Neunkirchen,http://www.landkreis-neunkirchen.de
+http://www.wikidata.org/entity/Q6802,Landkreis Merzig-Wadern,http://www.landkreis-merzig-wadern.de/
+http://www.wikidata.org/entity/Q6805,Regionalverband Saarbrücken,http://www.regionalverband-saarbruecken.de/
+http://www.wikidata.org/entity/Q7166,Landkreis Heilbronn,http://www.landkreis-heilbronn.de/
+http://www.wikidata.org/entity/Q7858,Landkreis Nordhausen,http://www.landratsamt-nordhausen.de/
+http://www.wikidata.org/entity/Q7862,Kyffhäuserkreis,http://www.kyffhaeuser.de/
+http://www.wikidata.org/entity/Q7861,Landkreis Eichsfeld,http://www.kreis-eic.de/
+http://www.wikidata.org/entity/Q7866,Wartburgkreis,http://www.wartburgkreis.de/
+http://www.wikidata.org/entity/Q7864,Unstrut-Hainich-Kreis,http://www.landkreis-unstrut-hainich.de/
+http://www.wikidata.org/entity/Q7865,Landkreis Sömmerda,http://www.landkreis-soemmerda.de/
+http://www.wikidata.org/entity/Q7871,Landkreis Schmalkalden-Meiningen,http://www.lk-sm.de/
+http://www.wikidata.org/entity/Q7869,Landkreis Gotha,http://www.landkreis-gotha.de
+http://www.wikidata.org/entity/Q7875,Landkreis Sonneberg,http://www.landkreis-sonneberg.de/
+http://www.wikidata.org/entity/Q7872,Landkreis Hildburghausen,http://www.landkreis-hildburghausen.de/
+http://www.wikidata.org/entity/Q7878,Ilm-Kreis,http://www.ilm-kreis.de/
+http://www.wikidata.org/entity/Q7879,Landkreis Weimarer Land,http://www.weimarer-land.de/
+http://www.wikidata.org/entity/Q7882,Landkreis Saalfeld-Rudolstadt,http://www.sa-ru.de/
+http://www.wikidata.org/entity/Q7883,Saale-Orla-Kreis,http://www.saale-orla-kreis.de/
+http://www.wikidata.org/entity/Q7887,Landkreis Greiz,http://www.landkreis-greiz.de/
+http://www.wikidata.org/entity/Q7884,Saale-Holzland-Kreis,http://www.saale-holzland-kreis.de/
+http://www.wikidata.org/entity/Q7890,Landkreis Kassel,http://www.landkreiskassel.de/
+http://www.wikidata.org/entity/Q7888,Landkreis Altenburger Land,http://www.altenburgerland.de/
+http://www.wikidata.org/entity/Q7888,Landkreis Altenburger Land,http://www.altenburgerland.de/
+http://www.wikidata.org/entity/Q7894,Schwalm-Eder-Kreis,http://www.schwalm-eder-kreis.de/
+http://www.wikidata.org/entity/Q7893,Landkreis Waldeck-Frankenberg,http://www.landkreis-waldeck-frankenberg.de/
+http://www.wikidata.org/entity/Q7898,Landkreis Hersfeld-Rotenburg,http://www.hef-rof.de/
+http://www.wikidata.org/entity/Q7899,Landkreis Fulda,http://www.landkreis-fulda.de/
+http://www.wikidata.org/entity/Q7896,Werra-Meißner-Kreis,http://www.werra-meissner.de/
+http://www.wikidata.org/entity/Q7902,Landkreis Marburg-Biedenkopf,http://www.marburg-biedenkopf.de/
+http://www.wikidata.org/entity/Q7901,Vogelsbergkreis,http://www.vogelsbergkreis.de/
+http://www.wikidata.org/entity/Q7906,Landkreis Limburg-Weilburg,https://www.landkreis-limburg-weilburg.de/
+http://www.wikidata.org/entity/Q7907,Rheingau-Taunus-Kreis,http://www.rheingau-taunus.de/
+http://www.wikidata.org/entity/Q7904,Landkreis Gießen,https://www.lkgi.de/
+http://www.wikidata.org/entity/Q7905,Lahn-Dill-Kreis,http://www.lahn-dill-kreis.de/
+http://www.wikidata.org/entity/Q7910,Wetteraukreis,http://www.wetteraukreis.de/
+http://www.wikidata.org/entity/Q7911,Main-Kinzig-Kreis,http://www.main-kinzig-kreis.de
+http://www.wikidata.org/entity/Q7908,Hochtaunuskreis,http://www.hochtaunuskreis.de
+http://www.wikidata.org/entity/Q7909,Main-Taunus-Kreis,http://www.mtk.org/
+http://www.wikidata.org/entity/Q7914,Kreis Groß-Gerau,http://www.kreis-gross-gerau.de/
+http://www.wikidata.org/entity/Q7912,Landkreis Offenbach,http://www.kreis-offenbach.de/
+http://www.wikidata.org/entity/Q7919,Odenwaldkreis,http://www.odenwaldkreis.de/
+http://www.wikidata.org/entity/Q7916,Landkreis Darmstadt-Dieburg,http://www.ladadi.de/
+http://www.wikidata.org/entity/Q7917,Kreis Bergstraße,http://www.kreis-bergstrasse.de/
+http://www.wikidata.org/entity/Q8174,Neckar-Odenwald-Kreis,http://www.neckar-odenwald-kreis.de
+http://www.wikidata.org/entity/Q8178,Landkreis Karlsruhe,http://www.landkreis-karlsruhe.de
+http://www.wikidata.org/entity/Q8177,Rhein-Neckar-Kreis,http://www.rhein-neckar-kreis.de
+http://www.wikidata.org/entity/Q8182,Landkreis Rastatt,http://www.landkreis-rastatt.de
+http://www.wikidata.org/entity/Q8186,Landkreis Calw,http://www.landkreis-calw.de/
+http://www.wikidata.org/entity/Q8184,Enzkreis,http://www.enzkreis.de/
+http://www.wikidata.org/entity/Q8191,Ortenaukreis,https://www.ortenaukreis.de/
+http://www.wikidata.org/entity/Q8189,Landkreis Freudenstadt,http://www.landkreis-freudenstadt.de/
+http://www.wikidata.org/entity/Q8195,Landkreis Breisgau-Hochschwarzwald,https://www.breisgau-hochschwarzwald.de
+http://www.wikidata.org/entity/Q8193,Landkreis Emmendingen,http://www.landkreis-emmendingen.de/
+http://www.wikidata.org/entity/Q8198,Landkreis Lörrach,http://www.loerrach-landkreis.de/
+http://www.wikidata.org/entity/Q8203,Schwarzwald-Baar-Kreis,http://www.schwarzwald-baar-kreis.de/
+http://www.wikidata.org/entity/Q8200,Landkreis Waldshut,http://www.landkreis-waldshut.de
+http://www.wikidata.org/entity/Q8206,Landkreis Konstanz,http://www.landkreis-konstanz.de/
+http://www.wikidata.org/entity/Q8211,Landkreis Rottweil,http://www.breisgau-hochschwarzwald.de/
+http://www.wikidata.org/entity/Q8208,Landkreis Tuttlingen,http://www.landkreis-tuttlingen.de/
+http://www.wikidata.org/entity/Q8214,Landkreis Tübingen,http://www.kreis-tuebingen.de/
+http://www.wikidata.org/entity/Q8217,Landkreis Reutlingen,http://www.kreis-reutlingen.de/
+http://www.wikidata.org/entity/Q8223,Landkreis Biberach,http://www.landkreis-biberach.de/
+http://www.wikidata.org/entity/Q8221,Alb-Donau-Kreis,https://www.alb-donau-kreis.de
+http://www.wikidata.org/entity/Q8225,Landkreis Ravensburg,http://www.landkreis-ravensburg.de
+http://www.wikidata.org/entity/Q8230,Landkreis Sigmaringen,http://www.landratsamt-sigmaringen.de/
+http://www.wikidata.org/entity/Q8228,Bodenseekreis,http://www.bodenseekreis.de
+http://www.wikidata.org/entity/Q8233,Zollernalbkreis,http://www.zollernalbkreis.de
+http://www.wikidata.org/entity/Q8518,Hohenlohekreis,http://www.hohenlohekreis.de/
+http://www.wikidata.org/entity/Q8517,Main-Tauber-Kreis,http://www.main-tauber-kreis.de/
+http://www.wikidata.org/entity/Q8522,Ostalbkreis,http://www.ostalbkreis.de/
+http://www.wikidata.org/entity/Q8523,Landkreis Heidenheim,http://www.landkreis-heidenheim.de
+http://www.wikidata.org/entity/Q8520,Landkreis Schwäbisch Hall,http://www.landkreis-schwaebisch-hall.de/
+http://www.wikidata.org/entity/Q8525,Landkreis Göppingen,http://www.landkreis-goeppingen.de/
+http://www.wikidata.org/entity/Q8528,Rems-Murr-Kreis,http://www.rems-murr-kreis.de/
+http://www.wikidata.org/entity/Q8533,Landkreis Esslingen,http://www.landkreis-esslingen.de/
+http://www.wikidata.org/entity/Q8536,Landkreis Böblingen,http://www.landkreis-boeblingen.de/
+http://www.wikidata.org/entity/Q8543,Landkreis Germersheim,http://www.kreis-germersheim.de/
+http://www.wikidata.org/entity/Q8541,Landkreis Ludwigsburg,http://www.landkreis-ludwigsburg.de/
+http://www.wikidata.org/entity/Q8551,Landkreis Südliche Weinstraße,http://www.suedliche-weinstrasse.de
+http://www.wikidata.org/entity/Q8554,Rhein-Pfalz-Kreis,http://www.rhein-pfalz-kreis.de/
+http://www.wikidata.org/entity/Q8552,Landkreis Südwestpfalz,http://www.lksuedwestpfalz.de
+http://www.wikidata.org/entity/Q8559,Landkreis Kaiserslautern,https://www.kaisersautern-kreis.de/
+http://www.wikidata.org/entity/Q8557,Landkreis Bad Dürkheim,http://www.kreis-bad-duerkheim.de/
+http://www.wikidata.org/entity/Q8562,Landkreis Kusel,http://www.landkreis-kusel.de/
+http://www.wikidata.org/entity/Q8566,Landkreis Alzey-Worms,http://www.kreis-alzey-worms.de/
+http://www.wikidata.org/entity/Q8564,Donnersbergkreis,http://www.donnersberg.de/
+http://www.wikidata.org/entity/Q8569,Landkreis Mainz-Bingen,http://www.mainz-bingen.de/
+http://www.wikidata.org/entity/Q8574,Rhein-Hunsrück-Kreis,http://www.kreis-sim.de/
+http://www.wikidata.org/entity/Q8575,Landkreis Birkenfeld,http://www.landkreis-birkenfeld.de/
+http://www.wikidata.org/entity/Q8572,Landkreis Bad Kreuznach,http://www.kreis-badkreuznach.de/
+http://www.wikidata.org/entity/Q8579,Landkreis Trier-Saarburg,http://www.trier-saarburg.de
+http://www.wikidata.org/entity/Q8583,Landkreis Vulkaneifel,http://www.kreis-daun.de
+http://www.wikidata.org/entity/Q8580,Eifelkreis Bitburg-Prüm,http://www.bitburg-pruem.de/
+http://www.wikidata.org/entity/Q8585,Landkreis Bernkastel-Wittlich,http://www.bernkastel-wittlich.de/
+http://www.wikidata.org/entity/Q8590,Landkreis Cochem-Zell,http://www.cochem-zell.de/
+http://www.wikidata.org/entity/Q8593,Landkreis Mayen-Koblenz,http://www.mayen-koblenz.de
+http://www.wikidata.org/entity/Q8596,Landkreis Ahrweiler,https://www.kreis-ahrweiler.de/
+http://www.wikidata.org/entity/Q8602,Westerwaldkreis,http://www.westerwald-kreis.de
+http://www.wikidata.org/entity/Q8601,Rhein-Lahn-Kreis,http://www.rhein-lahn-kreis.de/
+http://www.wikidata.org/entity/Q8606,Landkreis Neuwied,http://www.kreis-neuwied.de
+http://www.wikidata.org/entity/Q8608,Landkreis Altenkirchen (Westerwald),http://www.kreis-altenkirchen.de/
+http://www.wikidata.org/entity/Q10402,Landkreis Oberallgäu,http://www.oberallgaeu.de/
+http://www.wikidata.org/entity/Q10401,Landkreis Lindau,http://www.landkreis-lindau.de/
+http://www.wikidata.org/entity/Q10405,Landkreis Ostallgäu,http://www.ostallgaeu.de/
+http://www.wikidata.org/entity/Q10410,Landkreis Neu-Ulm,http://www.landkreis.neu-ulm.de
+http://www.wikidata.org/entity/Q10408,Landkreis Unterallgäu,https://unterallgaeu.de
+http://www.wikidata.org/entity/Q10414,Landkreis Augsburg,https://www.landkreis-augsburg.de/
+http://www.wikidata.org/entity/Q10415,Landkreis Aichach-Friedberg,http://www.lra-aic-fdb.de/
+http://www.wikidata.org/entity/Q10412,Landkreis Günzburg,http://www.landkreis-guenzburg.de/
+http://www.wikidata.org/entity/Q10418,Landkreis Donau-Ries,http://www.donau-ries.de/
+http://www.wikidata.org/entity/Q10419,Landkreis Tirschenreuth,http://www.kreis-tir.de/
+http://www.wikidata.org/entity/Q10417,Landkreis Dillingen a. d. Donau,http://www.landkreis-dillingen.de
+http://www.wikidata.org/entity/Q10423,Landkreis Schwandorf,http://www.landkreis-schwandorf.de/
+http://www.wikidata.org/entity/Q10420,Landkreis Neustadt an der Waldnaab,http://www.neustadt.de/
+http://www.wikidata.org/entity/Q10421,Landkreis Amberg-Sulzbach,http://www.kreis-as.de/
+http://www.wikidata.org/entity/Q10427,Landkreis Neumarkt in der Oberpfalz,http://www.landkreis-neumarkt.de/
+http://www.wikidata.org/entity/Q10424,Landkreis Cham,http://www.landkreis-cham.de
+http://www.wikidata.org/entity/Q10431,Landkreis Hof,http://www.landkreis-hof.de
+http://www.wikidata.org/entity/Q10429,Landkreis Regensburg,http://www.landkreis-regensburg.de
+http://www.wikidata.org/entity/Q10434,Landkreis Kronach,http://www.landkreis-kronach.de
+http://www.wikidata.org/entity/Q10432,Landkreis Wunsiedel i. Fichtelgebirge,http://www.landkreis-wunsiedel.de/
+http://www.wikidata.org/entity/Q10439,Landkreis Bayreuth,http://www.landkreis-bayreuth.de/
+http://www.wikidata.org/entity/Q10436,Landkreis Kulmbach,http://www.landkreis-kulmbach.de
+http://www.wikidata.org/entity/Q10442,Landkreis Lichtenfels,http://www.landkreis-lichtenfels.de/
+http://www.wikidata.org/entity/Q10440,Landkreis Coburg,http://www.landkreis-coburg.de/
+http://www.wikidata.org/entity/Q10447,Landkreis Erlangen-Höchstadt,http://www.erlangen-hoechstadt.de/
+http://www.wikidata.org/entity/Q10444,Landkreis Bamberg,http://www.landkreis-bamberg.de/
+http://www.wikidata.org/entity/Q10445,Landkreis Forchheim,http://www.landkreis-forchheim.de/
+http://www.wikidata.org/entity/Q10451,Landkreis Roth,http://www.landratsamt-roth.de/
+http://www.wikidata.org/entity/Q10449,Landkreis Nürnberger Land,http://www.nuernberger-land.de/
+http://www.wikidata.org/entity/Q10454,Landkreis Ansbach,https://landkreis-ansbach.de
+http://www.wikidata.org/entity/Q10455,Landkreis Fürth,http://www.landkreis-fuerth.de/
+http://www.wikidata.org/entity/Q10453,Landkreis Weißenburg-Gunzenhausen,https://www.landkreis-wug.de/
+http://www.wikidata.org/entity/Q10458,Landkreis Würzburg,http://www.landkreis-wuerzburg.de/
+http://www.wikidata.org/entity/Q10459,Landkreis Kitzingen,http://www.landkreis-kitzingen.de
+http://www.wikidata.org/entity/Q10456,Landkreis Neustadt a. d. Aisch-Bad Windsheim,http://www.landkreis-nea.de/
+http://www.wikidata.org/entity/Q10462,Landkreis Haßberge,http://www.hassberge.de/
+http://www.wikidata.org/entity/Q10461,Landkreis Schweinfurt,http://www.landkreis-schweinfurt.de/
+http://www.wikidata.org/entity/Q10466,Landkreis Bad Kissingen,http://www.landkreis-aschaffenburg.de/
+http://www.wikidata.org/entity/Q10465,Landkreis Rhön-Grabfeld,http://www.rhoen-grabfeld.de/
+http://www.wikidata.org/entity/Q10471,Landkreis Aschaffenburg,http://www.landkreis-aschaffenburg.de
+http://www.wikidata.org/entity/Q10469,Landkreis Main-Spessart,http://www.mainspessart.de
+http://www.wikidata.org/entity/Q10474,Landkreis Kelheim,http://www.landkreis-kelheim.de/
+http://www.wikidata.org/entity/Q10475,Landkreis Landshut,http://www.landkreis-landshut.de/
+http://www.wikidata.org/entity/Q10472,Landkreis Miltenberg,http://www.landkreis-miltenberg.de/
+http://www.wikidata.org/entity/Q10477,Landkreis Rottal-Inn,https://www.rottal-inn.de/
+http://www.wikidata.org/entity/Q10482,Landkreis Straubing-Bogen,http://www.straubing-bogen.de
+http://www.wikidata.org/entity/Q10483,Landkreis Regen,http://www.landkreis-regen.de/
+http://www.wikidata.org/entity/Q10480,Landkreis Dingolfing-Landau,http://www.landkreis-dingolfing-landau.de
+http://www.wikidata.org/entity/Q10487,Landkreis Freyung-Grafenau,http://www.freyung-grafenau.de/
+http://www.wikidata.org/entity/Q10485,Landkreis Deggendorf,http://www.landkreis-deggendorf.de/
+http://www.wikidata.org/entity/Q10491,Landkreis Eichstätt,http://www.landkreis-eichstaett.de
+http://www.wikidata.org/entity/Q10489,Landkreis Passau,http://www.landkreis-passau.de/
+http://www.wikidata.org/entity/Q10493,Landkreis Neuburg-Schrobenhausen,http://www.neuburg-schrobenhausen.de/
+http://www.wikidata.org/entity/Q10496,Landkreis Pfaffenhofen a. d. Ilm,http://www.landkreis-pfaffenhofen.de/
+http://www.wikidata.org/entity/Q10497,Landkreis Freising,http://www.landkreis-freising.de/
+http://www.wikidata.org/entity/Q10502,Landkreis Fürstenfeldbruck,http://www.lra-ffb.de
+http://www.wikidata.org/entity/Q10500,Landkreis Dachau,http://www.landkreis-dachau.de/
+http://www.wikidata.org/entity/Q10507,Landkreis Landsberg am Lech,http://www.lra-landsberg.de/
+http://www.wikidata.org/entity/Q10504,Landkreis Starnberg,http://www.landkreis-starnberg.de/
+http://www.wikidata.org/entity/Q10518,Landkreis Garmisch-Partenkirchen,http://www.landkreis-garmisch-partenkirchen.de/
+http://www.wikidata.org/entity/Q10516,Landkreis Weilheim-Schongau,http://www.weilheim-schongau.de/
+http://www.wikidata.org/entity/Q10522,Landkreis Bad Tölz-Wolfratshausen,http://www.lra-toelz.de/
+http://www.wikidata.org/entity/Q10523,Landkreis Miesbach,http://www.landkreis-miesbach.de/
+http://www.wikidata.org/entity/Q10526,Landkreis Rosenheim,http://www.landkreis-rosenheim.de/
+http://www.wikidata.org/entity/Q10530,Landkreis Berchtesgadener Land,https://www.berchtesgadener-land.de/
+http://www.wikidata.org/entity/Q10528,Landkreis Traunstein,http://www.traunstein.com/
+http://www.wikidata.org/entity/Q10533,Landkreis Altötting,http://www.landkreis-altoetting.de/
+http://www.wikidata.org/entity/Q10539,Landkreis Erding,http://www.landkreis-erding.de/
+http://www.wikidata.org/entity/Q10537,Landkreis Mühldorf am Inn,https://www.lra-mue.de/
+http://www.wikidata.org/entity/Q10541,Landkreis Ebersberg,http://www.lra-ebe.de/
+http://www.wikidata.org/entity/Q10544,Landkreis München,http://www.landkreis-muenchen.de/
+http://www.wikidata.org/entity/Q11280,Ennepe-Ruhr-Kreis,https://www.enkreis.de/
